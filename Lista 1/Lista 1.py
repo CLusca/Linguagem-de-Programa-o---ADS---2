@@ -27,7 +27,7 @@ def eh_palindromo(texto):
 
 palavra1 = "ovo"
 palavra2 = "Ame a ema"
-palavra3 = "python"
+palavra3 = "socorram me subi no onibus em marrocos"
 print(f'"{palavra1}" é palíndromo? {eh_palindromo(palavra1)}')
 print(f'"{palavra2}" é palíndromo? {eh_palindromo(palavra2)}')
 print(f'"{palavra3}" é palíndromo? {eh_palindromo(palavra3)}')
@@ -164,8 +164,8 @@ class Contato:
         self.email = email
 
 agenda = [
-    Contato("Lucas", "11-9999-8888", "lucas@email.com"),
-    Contato("Maria", "21-7777-6666", "maria@email.com")
+    Contato("Lucas", "18-99637-4635", "lucas@gmail.com"),
+    Contato("Maria", "21-7777-6666", "maria@gmail.com")
 ]
 
 print("Lista de contatos na agenda:")
